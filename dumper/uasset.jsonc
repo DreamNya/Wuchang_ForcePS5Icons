@@ -1,0 +1,18 @@
+// Project_Plague/Content/DynamicCombatSystem/Blueprints/DCSPlayerControllerBase.uasset
+{
+    "Type": "EnumProperty",
+    "Name": "CallFunc_GetPCApplicationInputType_ReturnValue",
+    "Flags": "RF_Public",
+    "ElementSize": 1,
+    "Enum": {
+        "ObjectName": "Enum'EPCApplicationInputType'",
+        "ObjectPath": "/Script/MMPlatformHelper"
+    },
+    "UnderlyingProp": {
+        "Type": "ByteProperty",
+        "Name": "UnderlyingType",
+        "Flags": "RF_Public",
+        "ElementSize": 1,
+        "Enum": null
+    }
+}
